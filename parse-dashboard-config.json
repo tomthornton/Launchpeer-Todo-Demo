@@ -1,0 +1,10 @@
+{
+    "apps": [
+      {
+        "serverURL": "http://localhost:1337/parse",
+        "appId": "launchpeertodo",
+        "masterKey": "lerxuhfysldkjfaygnbkelxjfl",
+        "appName": "LaunchpeerTodo"
+      }
+    ]
+  }
